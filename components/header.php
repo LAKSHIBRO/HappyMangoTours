@@ -15,10 +15,10 @@
     </div>
     <div class="flex grow gap-7 justify-end items-center">
         <div>Daily Updates</div>
-        <img src="/Assets/Path 107424.png" alt="">
-        <img src="/Assets/Path 107423.png" alt="">
-        <img src="/Assets/Group 22923.png" alt="">
-        <img src="/Assets/Group 22924.png" alt="">
+        <a href="#"><img src="/Assets/Path 107424.png" alt="Social Media Icon 1"></a>
+        <a href="#"><img src="/Assets/Path 107423.png" alt="Social Media Icon 2"></a>
+        <a href="#"><img src="/Assets/Group 22923.png" alt="Social Media Icon 3"></a>
+        <a href="#"><img src="/Assets/Group 22924.png" alt="Social Media Icon 4"></a>
         <div>
             <button class="px-3 py-2 bg-[#FF9933] text-white  text-xs">WHATSAPP</button>
         </div>
@@ -30,7 +30,7 @@
     <a href="about.php" class="sm:px-10">ABOUT</a>
     <a href="tour-packages.php" class="sm:px-10">TOUR PACKAGES</a>
     <a href="/" class="sm:px-42 flex justify-center items-center">
-        <img class="h-full w-full" src="Assets/logo.png" alt="">
+        <img class="h-full w-full" src="/Assets/logo.png" alt="Happy Mango Tours Logo">
     </a>
     <a href="gallery.php" class="sm:px-10">GALLERY</a>
     <a href="blog.php" class="sm:px-10">BLOG</a>

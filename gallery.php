@@ -17,7 +17,7 @@
 </head>
 <body class="bg-white">
 
-    <div class="w-screen min-h-screen flex justify-center items-center flex-col text-white">
+    <div class="w-full min-h-screen flex justify-center items-center flex-col text-white">
         <?php include 'components/header.php'; ?>
         <div class="w-full py-20 flex flex-col justify-center items-center gap-5 bg-[#000000aa]">
             <div class="text-7xl font-black font-pri">Gallery</div>

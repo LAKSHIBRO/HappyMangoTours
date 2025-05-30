@@ -17,7 +17,7 @@
 </head>
 <body class="bg-white">
 
-    <div class="w-screen min-h-screen flex justify-center items-center flex-col text-white">
+    <div class="w-full min-h-screen flex justify-center items-center flex-col text-white">
         <!-- Header -->
         <?php include 'components/header.php'; ?>
 

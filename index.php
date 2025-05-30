@@ -17,7 +17,7 @@
 </head>
 <body>
 
-    <div class="w-screen min-h-screen flex justify-center items-center flex-col text-white">
+    <div class="w-full min-h-screen flex justify-center items-center flex-col text-white">
         <?php include 'components/header.php'; ?>
         <section class="w-full h-screen flex gap-10 justify-center items-center flex-col" style="background-image: url(/Assets/mainbg.png); background-size: cover; background-position: center;">
             <div class="text-6xl font-sec">Explore the World With</div>
